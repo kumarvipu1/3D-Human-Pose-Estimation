@@ -26,4 +26,4 @@ Output of 2D skeleton tracking can be found in folder 'output2d'
 
 Output of 3D tracking can be found in folder 'output3d'
 
-![Screenshot3D](\output3d\figures\56.png)
+![Screenshot3D](https://github.com/kumarvipu1/3D-Human-Pose-Estimation/blob/main/output3d/figures/56.png)
