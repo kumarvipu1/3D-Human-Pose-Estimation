@@ -22,7 +22,7 @@ Place the contents of estimator folder to '2d_model' folder in the cloned direct
 
 Output of 2D skeleton tracking can be found in folder 'output2d'
 
-![Screenshot](\output2d\Capture.PNG)
+![Screenshot](https://github.com/kumarvipu1/3D-Human-Pose-Estimation/blob/main/output2d/Capture.PNG)
 
 Output of 3D tracking can be found in folder 'output3d'
 
