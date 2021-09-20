@@ -1,4 +1,4 @@
-#3D Pose Estimator
+# 3D Pose Estimator
 
 2D pose estimation part of this program is based on RMPE(https://github.com/Fang-Haoshu/RMPE)
 3D pose estimation is based on [paper](https://arxiv.org/abs/1609.09058 "arXiv:1609.09058") by Ruiqi Zhao, Yan Wang and Aleix Martinez.
